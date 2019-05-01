@@ -25,7 +25,7 @@ Your `keycodes` enum may have a slightly different name. You must add `DYNAMIC_M
 Below it, include the `dynamic_macro.h` header:
 
 ```c
-	#include "dynamic_macro.h"`
+	#include "dynamic_macro.h"
 ```
 
 Add the following keys to your keymap:
